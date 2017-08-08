@@ -159,70 +159,70 @@
 	<td class="index">1.</td>
 <td align="LEFT">
  TAT for releasing PO/Work Order</td>
-<td><input type="RADIO" name="question1" value="1"></td>
-<td><input type="RADIO" name="question1" value="2"></td>
-<td><input type="RADIO" name="question1" value="3"></td>
-<td><input type="RADIO" name="question1" value="4"></td>
-<td><input type="RADIO" name="question1" value="5"></td>
-<td><input type="text" name="remark1" placeholder="Enter Remark"></td>
+<td><input type="RADIO" name="question1" value="1" required></td>
+<td><input type="RADIO" name="question1" value="2" required></td>
+<td><input type="RADIO" name="question1" value="3" required></td>
+<td><input type="RADIO" name="question1" value="4" required></td>
+<td><input type="RADIO" name="question1" value="5" required></td>
+<td><input type="text" name="remark1" placeholder="Enter Remark" required></td>
 </tr>
 
 <tr align="CENTER">
 	<td class="index">2.</td>
 <td align="LEFT">
  Time & Convenience in signing Agreements </td>
-<td><input type="RADIO" name="question2" value="1"></td>
-<td><input type="RADIO" name="question2" value="2"></td>
-<td><input type="RADIO" name="question2" value="3"></td>
-<td><input type="RADIO" name="question2" value="4"></td>
-<td><input type="RADIO" name="question2" value="5"></td>
-<td><input type="text" name="remark2" placeholder="Enter Remark"></td>
+<td><input type="RADIO" name="question2" value="1" required></td>
+<td><input type="RADIO" name="question2" value="2" required></td>
+<td><input type="RADIO" name="question2" value="3" required></td>
+<td><input type="RADIO" name="question2" value="4" required></td>
+<td><input type="RADIO" name="question2" value="5" required></td>
+<td><input type="text" name="remark2" placeholder="Enter Remark" required></td>
 </tr>
 
 <tr align="CENTER">
 	<td class="index">3.</td>
 <td align="LEFT">
    TAT fore releasing payment </td>
-<td><input type="RADIO" name="question3" value="1"></td>
-<td><input type="RADIO" name="question3" value="2"></td>
-<td><input type="RADIO" name="question3" value="3"></td>
-<td><input type="RADIO" name="question3" value="4"></td>
-<td><input type="RADIO" name="question3" value="5"></td>
-<td><input type="text" name="remark3" placeholder="Enter Remark"></td>
+<td><input type="RADIO" name="question3" value="1" required></td>
+<td><input type="RADIO" name="question3" value="2" required></td>
+<td><input type="RADIO" name="question3" value="3" required></td>
+<td><input type="RADIO" name="question3" value="4" required></td>
+<td><input type="RADIO" name="question3" value="5" required></td>
+<td><input type="text" name="remark3" placeholder="Enter Remark" required></td>
 </tr>
 
 <tr align="CENTER">
 	<td class="index"></td>
 <td align="LEFT">
 TAT for  releasing WCT/TDS Certificates</td>
-<td><input type="RADIO" name="question4" value="1"></td>
-<td><input type="RADIO" name="question4" value="2"></td>
-<td><input type="RADIO" name="question4" value="3"></td>
-<td><input type="RADIO" name="question4" value="4"></td>
-<td><input type="RADIO" name="question4" value="5"></td>
-<td><input type="text" name="remark4" placeholder="Enter Remark"></td>
+<td><input type="RADIO" name="question4" value="1" required></td>
+<td><input type="RADIO" name="question4" value="2" required></td>
+<td><input type="RADIO" name="question4" value="3" required></td>
+<td><input type="RADIO" name="question4" value="4" required></td>
+<td><input type="RADIO" name="question4" value="5" required></td>
+<td><input type="text" name="remark4" placeholder="Enter Remark" required></td>
 </tr>
 	<tr align="CENTER">
 <td class="index"></td>
 		<td align="LEFT">
 Vendor compliance evaluation process</td>
-<td><input type="RADIO" name="question5" value="1"></td>
-<td><input type="RADIO" name="question5" value="2"></td>
-<td><input type="RADIO" name="question5" value="3"></td>
-<td><input type="RADIO" name="question5" value="4"></td>
-<td><input type="RADIO" name="question5" value="5"></td>
-<td><input type="text" name="remark5" placeholder="Enter Remark"></td>
+<td><input type="RADIO" name="question5" value="1" required></td>
+<td><input type="RADIO" name="question5" value="2" required></td>
+<td><input type="RADIO" name="question5" value="3" required></td>
+<td><input type="RADIO" name="question5" value="4" required></td>
+<td><input type="RADIO" name="question5" value="5" required></td>
+<td><input type="text" name="remark5" placeholder="Enter Remark" required></td>
 </tr>
 	<tr align="CENTER">
 		<td class="index"></td>
 <td align="LEFT">
 Over All association with  TATA AIG </td>
-<td><input type="RADIO" name="question6" value="1"></td>
-<td><input type="RADIO" name="question6" value="2"></td>
-<td><input type="RADIO" name="question6" value="3"></td>
-<td><input type="RADIO" name="question6" value="4"></td>
-<td><input type="RADIO" name="question6" value="5"></td>
-<td><input type="text" name="remark6" placeholder="Enter Remark"></td>
+<td><input type="RADIO" name="question6" value="1" required></td>
+<td><input type="RADIO" name="question6" value="2" required></td>
+<td><input type="RADIO" name="question6" value="3" required></td>
+<td><input type="RADIO" name="question6" value="4" required></td>
+<td><input type="RADIO" name="question6" value="5" required></td>
+<td><input type="text" name="remark6" placeholder="Enter Remark" required></td>
 </tr>
 
 

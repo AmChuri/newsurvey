@@ -160,114 +160,114 @@
 	<td class="index">1.</td>
 <td align="LEFT">
  Cleanliness & general upkeep of office</td>
-<td><input type="RADIO" name="question1" value="1"></td>
-<td><input type="RADIO" name="question1" value="2"></td>
-<td><input type="RADIO" name="question1" value="3"></td>
-<td><input type="RADIO" name="question1" value="4"></td>
-<td><input type="RADIO" name="question1" value="5"></td>
-<td><input type="text" name="remark1" placeholder="Enter Remark"></td>
+<td><input type="RADIO"  required name="question1" value="1"></td>
+<td><input type="RADIO"  required name="question1" value="2"></td>
+<td><input type="RADIO"  required name="question1" value="3"></td>
+<td><input type="RADIO"  required name="question1" value="4"></td>
+<td><input type="RADIO"  required name="question1" value="5"></td>
+<td><input type="text" name="remark1" placeholder="Enter Remark"  required></td>
 </tr>
 
 <tr align="CENTER">
 	<td class="index">2.</td>
 <td align="LEFT">
 Cleanliness & general upkeep of washrooms</td>
-<td><input type="RADIO" name="question2" value="1"></td>
-<td><input type="RADIO" name="question2" value="2"></td>
-<td><input type="RADIO" name="question2" value="3"></td>
-<td><input type="RADIO" name="question2" value="4"></td>
-<td><input type="RADIO" name="question2" value="5"></td>
-<td><input type="text" name="remark2" placeholder="Enter Remark"></td>
+<td><input type="RADIO"  required name="question2" value="1"></td>
+<td><input type="RADIO"  required name="question2" value="2"></td>
+<td><input type="RADIO"  required name="question2" value="3"></td>
+<td><input type="RADIO"  required name="question2" value="4"></td>
+<td><input type="RADIO"  required name="question2" value="5"></td>
+<td><input type="text" name="remark2" placeholder="Enter Remark"  required></td>
 </tr>
 
 <tr align="CENTER">
 	<td class="index">3.</td>
 <td align="LEFT">
    Availability of seats</td>
-<td><input type="RADIO" name="question3" value="1"></td>
-<td><input type="RADIO" name="question3" value="2"></td>
-<td><input type="RADIO" name="question3" value="3"></td>
-<td><input type="RADIO" name="question3" value="4"></td>
-<td><input type="RADIO" name="question3" value="5"></td>
-<td><input type="text" name="remark3" placeholder="Enter Remark"></td>
+<td><input type="RADIO"  required name="question3" value="1"></td>
+<td><input type="RADIO"  required name="question3" value="2"></td>
+<td><input type="RADIO"  required name="question3" value="3"></td>
+<td><input type="RADIO"  required name="question3" value="4"></td>
+<td><input type="RADIO"  required name="question3" value="5"></td>
+<td><input type="text" name="remark3" placeholder="Enter Remark"  required></td>
 </tr>
 
 <tr align="CENTER">
 	<td class="index">4.</td>
 <td align="LEFT">
 Safety : Security Guard & Fire Fighting Equipment</td>
-<td><input type="RADIO" name="question4" value="1"></td>
-<td><input type="RADIO" name="question4" value="2"></td>
-<td><input type="RADIO" name="question4" value="3"></td>
-<td><input type="RADIO" name="question4" value="4"></td>
-<td><input type="RADIO" name="question4" value="5"></td>
-<td><input type="text" name="remark4" placeholder="Enter Remark"></td>
+<td><input type="RADIO"  required name="question4" value="1"></td>
+<td><input type="RADIO"  required name="question4" value="2"></td>
+<td><input type="RADIO"  required name="question4" value="3"></td>
+<td><input type="RADIO"  required name="question4" value="4"></td>
+<td><input type="RADIO"  required name="question4" value="5"></td>
+<td><input type="text" name="remark4" placeholder="Enter Remark"  required></td>
 </tr>
 	<tr align="CENTER">
 <td class="index">5.</td>
 		<td align="LEFT">
 Office Infrastructure like AC, Lights etc. & equipment  etc.</td>
-<td><input type="RADIO" name="question5" value="1"></td>
-<td><input type="RADIO" name="question5" value="2"></td>
-<td><input type="RADIO" name="question5" value="3"></td>
-<td><input type="RADIO" name="question5" value="4"></td>
-<td><input type="RADIO" name="question5" value="5"></td>
-<td><input type="text" name="remark5" placeholder="Enter Remark"></td>
+<td><input type="RADIO"  required name="question5" value="1"></td>
+<td><input type="RADIO"  required name="question5" value="2"></td>
+<td><input type="RADIO"  required name="question5" value="3"></td>
+<td><input type="RADIO"  required name="question5" value="4"></td>
+<td><input type="RADIO"  required name="question5" value="5"></td>
+<td><input type="text" name="remark5" placeholder="Enter Remark"  required></td>
 </tr>
 	<tr align="CENTER">
 		<td class="index">6.</td>
 <td align="LEFT">
 Condition of Tea & Coffee vending machine</td>
-<td><input type="RADIO" name="question6" value="1"></td>
-<td><input type="RADIO" name="question6" value="2"></td>
-<td><input type="RADIO" name="question6" value="3"></td>
-<td><input type="RADIO" name="question6" value="4"></td>
-<td><input type="RADIO" name="question6" value="5"></td>
-<td><input type="text" name="remark6" placeholder="Enter Remark"></td>
+<td><input type="RADIO"  required name="question6" value="1"></td>
+<td><input type="RADIO"  required name="question6" value="2"></td>
+<td><input type="RADIO"  required name="question6" value="3"></td>
+<td><input type="RADIO"  required name="question6" value="4"></td>
+<td><input type="RADIO"  required name="question6" value="5"></td>
+<td><input type="text" name="remark6" placeholder="Enter Remark"  required></td>
 </tr>
 	<tr align="CENTER">
 		<td class="index">7.</td>
 <td align="LEFT">
 Quality of signage</td>
-<td><input type="RADIO" name="question7" value="1"></td>
-<td><input type="RADIO" name="question7" value="2"></td>
-<td><input type="RADIO" name="question7" value="3"></td>
-<td><input type="RADIO" name="question7" value="4"></td>
-<td><input type="RADIO" name="question7" value="5"></td>
-<td><input type="text" name="remark7" placeholder="Enter Remark"></td>
+<td><input type="RADIO"  required name="question7" value="1"></td>
+<td><input type="RADIO"  required name="question7" value="2"></td>
+<td><input type="RADIO"  required name="question7" value="3"></td>
+<td><input type="RADIO"  required name="question7" value="4"></td>
+<td><input type="RADIO"  required name="question7" value="5"></td>
+<td><input type="text" name="remark7" placeholder="Enter Remark"  required></td>
 </tr>
 	<tr align="CENTER">
 		<td class="index">8.</td>
 <td align="LEFT">
 Availability of general stationery </td>
-<td><input type="RADIO" name="question8" value="1"></td>
-<td><input type="RADIO" name="question8" value="2"></td>
-<td><input type="RADIO" name="question8" value="3"></td>
-<td><input type="RADIO" name="question8" value="4"></td>
-<td><input type="RADIO" name="question8" value="5"></td>
-<td><input type="text" name="remark8" placeholder="Enter Remark"></td>
+<td><input type="RADIO"  required name="question8" value="1"></td>
+<td><input type="RADIO"  required name="question8" value="2"></td>
+<td><input type="RADIO"  required name="question8" value="3"></td>
+<td><input type="RADIO"  required name="question8" value="4"></td>
+<td><input type="RADIO"  required name="question8" value="5"></td>
+<td><input type="text" name="remark8" placeholder="Enter Remark"  required></td>
 </tr>
 		<tr align="CENTER">
 			<td class="index">9.</td>
 <td align="LEFT">
 Resolution provided on the issue raised </td>
-<td><input type="RADIO" name="question9" value="1"></td>
-<td><input type="RADIO" name="question9" value="2"></td>
-<td><input type="RADIO" name="question9" value="3"></td>
-<td><input type="RADIO" name="question9" value="4"></td>
-<td><input type="RADIO" name="question9" value="5"></td>
-<td><input type="text" name="remark9" placeholder="Enter Remark"></td>
+<td><input type="RADIO"  required name="question9" value="1"></td>
+<td><input type="RADIO"  required name="question9" value="2"></td>
+<td><input type="RADIO"  required name="question9" value="3"></td>
+<td><input type="RADIO"  required name="question9" value="4"></td>
+<td><input type="RADIO"  required name="question9" value="5"></td>
+<td><input type="text" name="remark9" placeholder="Enter Remark"  required></td>
 </tr>
 	<tr align="CENTER">
 			<td class="index">10.</td>
 <td align="LEFT">
 How would you rate your overall experience </td>
-<td><input type="RADIO" name="question10" value="1"></td>
-<td><input type="RADIO" name="question10" value="2"></td>
-<td><input type="RADIO" name="question10" value="3"></td>
-<td><input type="RADIO" name="question10" value="4"></td>
-<td><input type="RADIO" name="question10" value="5"></td>
-<td><input type="text" name="remark10" placeholder="Enter Remark"></td>
+<td><input type="RADIO"  required name="question10" value="1"></td>
+<td><input type="RADIO"  required name="question10" value="2"></td>
+<td><input type="RADIO"  required name="question10" value="3"></td>
+<td><input type="RADIO"  required name="question10" value="4"></td>
+<td><input type="RADIO"  required name="question10" value="5"></td>
+<td><input type="text" name="remark10" placeholder="Enter Remark"  required></td>
 </tr>
 </tbody></table>
 <br>
